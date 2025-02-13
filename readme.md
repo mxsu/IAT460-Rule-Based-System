@@ -11,3 +11,6 @@ complete with it's own characters, setting, and plot points and text generated t
 
 
 It has 2 different stories, an adventure story, and a romantic story.
+
+
+To run this project, just run it through Google Colab Notebook
